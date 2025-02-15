@@ -11,4 +11,4 @@ int num2 = int.Parse(input2);
 
 int suma = num1 + num2;
 
-Console.WriteLine("La suma de los dos números es: " + suma);
+Console.WriteLine("La suma de los dos números ess: " + suma);
